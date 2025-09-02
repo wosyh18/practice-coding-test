@@ -1,4 +1,4 @@
-package num1000;
+package num1010;
 
 import java.io.*;
 

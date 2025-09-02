@@ -1,4 +1,4 @@
-package num1000;
+package num1010;
 
 public class n1007 {
     public static void main(String[] args){
