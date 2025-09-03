@@ -1,4 +1,4 @@
-package num1020;
+package num1010;
 
 import java.io.BufferedReader;
 import java.io.IOException;
